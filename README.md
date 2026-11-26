@@ -1,5 +1,7 @@
 # flutter-release-check
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Catches the release mistakes that stop users from ever seeing your update: a version name that didn't move, a build number that went backwards, and Android or iOS files that ignore `pubspec.yaml`.
 
 Run it before every upload, by hand, in CI, or through your AI coding agent as a skill.
